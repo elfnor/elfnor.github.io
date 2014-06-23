@@ -1,4 +1,4 @@
 elfnor.github.io
 ================
 
-landing page
+landing page for <elfnor.github.io/lookthinkmake>
